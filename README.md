@@ -6,7 +6,7 @@ I've developed a quirky calculator that, despite its occasional hiccups, manages
 
 ## Features
 
-1. *Random Calculation Errors: Approximately **10%* of the time, this calculator will produce incorrect results. It's like playing a game of mathematical roulette!
+1. *Random Calculation Errors: Approximately * *10%* of the time, this calculator will produce incorrect results. It's like playing a game of mathematical roulette!
 
 2. *Unconventional Operators*:
    - instead of `+` it performs `-`
